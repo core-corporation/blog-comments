@@ -1,0 +1,5 @@
+{
+  "origins": ["https://blog.core-corp.co.jp", "https://blog.core-cuong.workers.dev"],
+  "originsRegex": ["^https://[a-z0-9-]+-blog\\.core-cuong\\.workers\\.dev$", "^http://localhost:[0-9]+$"],
+  "defaultCommentOrder": "oldest"
+}
